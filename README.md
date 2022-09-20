@@ -1,0 +1,1 @@
+# lintrce-config
